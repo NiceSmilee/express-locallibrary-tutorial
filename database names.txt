@@ -1,0 +1,4 @@
+with mongodb atlas
+mongodb+srv://lightning:kingtiger0219@cluster0.igrkk.mongodb.net/local_library?retryWrites=true&w=majority&appName=Cluster0
+with local mongodb
+mongodb://localhost:27017/local_library
